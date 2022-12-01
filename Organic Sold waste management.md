@@ -42,7 +42,40 @@ Greenhouse gas production is perhaps the biggest environmental threat posed by l
 Legacy wastes are the wastes that have been collected and kept for years at the landfill sites. This type of waste includes contained or stored wastes, buried waste, contaminated soil and groundwater, contaminated building material and structures etc. The Legacy waste not only occupy large space, but also become a breeding ground for pathogens, flies, stench and generation of leachate. They also contribute to the generation of greenhouse gases and pose risk of uncontrollable fire. The Central Pollution Control Board has proposed the Biomining method for the effective disposal of legacy waste. 
 
 ### Physical composition of waste
-The physical composition of waste generated in Chennai is given in the table below. 
+The physical composition of waste generated in Chennai is given in the table below.
+
+| Physical Composition | Percentage % |
+| -------------------- | ------------ |
+| Food waste | 8.00% |
+| Green - waste | 32.25 |
+| Timber(wood) | 6.99 |
+| Consumable plastic | 5.86 |
+| Industrial plastic | 1.18 |
+| Steel & Materials | 0.03 |
+| Rags & Textiles | 3.14 |
+| Paper | 6.45 |
+| Rubber & Leather | 1.45 |
+| Inert | 34.65 |
+| **Chemical Analysis** |
+| Moisture content | 27.60 |
+| pH value | 7.86 |
+| Organic content | 39.06 |
+| Carbon content | 21.53 |
+| Nitrogen content | 0.73 |
+| Phosphorous P<sub>2</sub>O<sub>5</sub> | 0.63 |
+| Potassium K<sub>2</sub>O | 0.63 |
+| **Waste Generation by category** |
+| Residential | 68 |
+| Commercial | 16 |
+| Halls, Schools, Institutions | 14 |
+| Industrial | 2 |
+| Hospitals & Clinics | Seperately disposed by hospitals |
+
+The above table gives us a lucid idea that the Chennai garbage mainly consists of food waste and the green waste. Fortunately, the food waste and green waste are bio-degradable in nature, which means this waste can be recycled or composted. Such bio-degradable waste can be termed as organic solid waste. 
+
+
+
+
 
 
 
