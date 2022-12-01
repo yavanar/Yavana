@@ -8,7 +8,9 @@ India, the seventh largest country by area and the second most populous country 
 The process of collecting, treating and disposing of solid waste is termed as solid waste management. The solid waste constitutes of the solid materials that are discarded because it has served its purpose or is no longer useful. Every country follows its tailored solid waste management procedures to maintain clean and healthy environment. Improper disposal of municipal solid waste can create unsanitary conditions and in turn can lead to pollution of environment and outbreaks of vector – borne diseases.
 According to “Solid waste management rules 2016” issued by Government of India, “Solid waste” means and includes the following types of solid materials that are discarded as waste.
 ![Solid Waste Types](https://user-images.githubusercontent.com/119152666/204985465-ad912531-6613-470b-9fcd-cc1215d2026b.png)
+
 All non-hazardous solid waste from a community that requires collection and transport to a processing or disposal site is called Municipal Solid Waste (MSW). The Municipal Solid Waste is further classified into Dry organic waste and Wet Organic waste. The classification of solid waste is given in the figure below.
 ![Solid Waste Classification](https://user-images.githubusercontent.com/119152666/204985906-6e3321dd-d00c-4157-b674-e0f19d8b2ba6.png)
+
 
 
