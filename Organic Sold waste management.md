@@ -110,17 +110,54 @@ The Greater Chennai Corporation has installed Bio – CNG plants in Egmore, Chen
 
 ### Highlights of Bio-CNG plant in Mahindra World city, Chennai:
 
-- 
+1. An all new Bio-CNG plant was set up at Mahindra World City, Chennai as a joint CSR initiative between Mahindra Research Valley (MRV) and Mahindra World City Developers Limited (MWCDL).
+2. The Bio-CNG plant converts 100% of the eight tons of food and kitchen waste generated daily in the city into 1000m3 of raw biogas. This raw bio gas can be enriched to yield 400kg/day of purified CNG grade fuel which is equivalent to a 200kW power plant.
+3. Four tons of organic fertilizer is produced each day. 
+4. The green energy (Bio-CNG) is effectively used to replace CNG as an automotive fuel (for CNG buses and tractors) and LPG for cooking purposes, as well as to power street lights at Mahindra World City, Chennai.
+5. The organic fertilizer is used by farmers to enhance soil fertility.
+6. The power generated is used for buses for free shuttle service and tractors for cultivation.
 
-	
+![image](https://user-images.githubusercontent.com/119152666/205212932-4a23317e-3143-44c2-b3ab-317e3774433c.png)
 
+# 6. Challenges Faced by Bio-CNG Plants
+A glaring problem in the way of success of the bio – CNG plants in India is “Segregation of waste”. The waste has to be segregated as dry waste and wet waste at its source. This means, it is imperative for all the citizens to play an active role in segregating the waste at their premise. In 2017, the Greater Chennai Corporation made it mandatory for individuals to segregate waste at the source in accordance with the Solid Waste Management Rules, 2016 published by the erstwhile Ministry of Environment, Forests and Climate Change. Further, the Solid Waste Management Department has also issued by-laws to provide guidelines to segregate waste. Yet, nothing much has changed in waste disposal methods in Chennai and also in many parts of India.
 
+### Waste Segregation
+Waste segregation can be defined as the process of identifying, classifying, dividing and sorting of garbage and waste products in an effort to reduce, reuse and recycle materials. When we segregate waste, there is not only a reduction of waste that gets landfilled, it also reduces pollution levels by lowering the percentage of garbage exposed to air and water. According to the Solid waste management rules 2016, it is essential to practice segregation of waste into
+1. Bio - degradable or Wet waste
+2. Non bio - degradable (recyclable and combustible) or Dry waste
+3. Sanitary waste and 
+4. Hazardous waste 
 
+The color codes that can be followed for segregation of waste is shown below
 
+![image](https://user-images.githubusercontent.com/119152666/205213769-10d7c529-699e-4a59-8ea2-d40028a7bc40.png)
 
+Only if the waste is segregated properly at the source, the organic waste can reach the Bio-CNG plants instead of being dumped into the landfill sites. The success of the bio – CNG plants is highly dependent on the waste segregation.
 
+# 7. Initiatives for Waste Segregation at Source
 
+Confronted with the problem of waste, all the respective city corporations in India are taking various measures to implement segregation of waste at source. Below are few ideas/recommendations that can be used to make this possible.
 
+1. The citizens to be educated to create an awareness on waste segregation. The problems faced in the landfill sites to be clearly showcased to the citizens to understand the current problems of solid waste management.
+2. Effective campaign to be done throughout the country illustrating the importance of waste segregation. This campaign should mimic the election campaign done throughout the country.
+3. Reward schemes can be introduced for communities which follow the rules of waste segregation at source.
+4. Citizens can be penalized for improper disposal of waste.
+5. Advertisements should be very efficient to register the color codes of different types of waste disposal. 
+6. The City corporation can collaborate with the corporate companies to take the role of campaign among their employees and also in the neighborhood areas.
+7. Tax benefits can be announced for the corporates and the non profit organizations who participates in the effective campaign.
+8. The sanitary workers to be well educated about the effects of waste segregation.
 
+# 8. Conclusion
 
+Waste management is the need of the hour for India. It not only helps the country become greener and cleaner, but it also protects the ecology of the country. If waste segregation is efficiently done at source, the bio-CNG plants will effectively recycle all the organic waste. Since the organic waste accounts to more than 50% of the total generated garbage, the future success of the bio-CNG plants in India will make the country greener and healthier.
 
+# 9. Citations
+
+1. [Demography of India](https://en.wikipedia.org/wiki/Demography_of_India)
+2. [The Solid Waste Management Rules, 2016](https://hspcb.gov.in/content/laws/msw/MSW_Rules.pdf)
+3. [Chennai Corporation - Solid waste Management](https://chennaicorporation.gov.in/gcc/department/solid-waste-management/)
+4. [Landfills - harmful for the environment](https://www.unisanuk.com/what-is-a-landfill-why-are-landfills-bad-for-the-environment/)
+5. [Solid-waste management. Encyclopædia Britannica](https://www.britannica.com/technology/solid-waste-management)
+6. [Indore Bio-CNG Plant](https://thewire.in/environment/heres-why-the-new-indore-bio-cng-plant-is-likely-to-succeed-though-others-like-it-havent)
+7. [Waste segreagation](https://protechgroup.in/wp/wet-or-dry-how-to-segregate-and-manage-waste/)
